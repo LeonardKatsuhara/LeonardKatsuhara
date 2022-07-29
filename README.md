@@ -1,6 +1,6 @@
 <h3 align="center">Hello, I’m @LeonardKatsuhara - Welcome to my GitHub profile 🌱</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LKatsuharao&color=yellow" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LeonardKatsuharao&color=yellow" alt="Profile views" /> </p>
 </p>
 
 ## Contact
