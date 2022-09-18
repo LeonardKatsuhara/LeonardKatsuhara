@@ -1,7 +1,7 @@
-<h3 align="center">Hello, I’m @LeonardKatsuhara - Welcome to my GitHub profile 🌱</h3>
+<h3 align="left">Hello, I’m @LeonardKatsuhara - Welcome to my GitHub profile 🌱</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LeonardKatsuharao&color=yellow" alt="Profile views" /> </p>
-</p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=LeonardKatsuharao&color=yellow" alt="Profile views" /> </p>
+</p>-->
 
 <!--## Contact
 <p align="left"> <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>  
